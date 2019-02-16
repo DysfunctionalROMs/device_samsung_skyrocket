@@ -1,6 +1,6 @@
 [
   {
-    "repository": "TheMuppets/android_proprietary_vendor_samsung",
+    "repository": "TheMuppets/proprietary_vendor_samsung",
     "target_path": "vendor/samsung",
     "branch": "cm-12.1"
   },
